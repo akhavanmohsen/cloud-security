@@ -18,6 +18,9 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 [SC-200 Microsoft Certified: Security Operations Analyst Associate] (https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification)
 [SC-300 Microsoft Certified: Identity and Access Administrator Associate] (https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification)
 [SC-400 Microsoft Certified: Information Protection and Compliance Administrator Associate] (https://learn.microsoft.com/en-us/credentials/certifications/information-protection-administrator/?practice-assessment-type=certification)
+[OpenAI](https://www.openai.com)
+
+
 
 ## Best Repo
 
