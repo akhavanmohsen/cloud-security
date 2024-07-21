@@ -27,7 +27,12 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 ## Best Repo
 
 
-## Programs
+## Blog Posts
+
+### Microsoft 365
+
+[Microsoft 365 security recommendations with PowerShell script](https://www.alitajran.com/microsoft-365-security-recommendations/)
+
 
 
 ## Files
