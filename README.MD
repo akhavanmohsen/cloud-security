@@ -71,3 +71,5 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 ## Files
 
+[Azure Security Compass](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fmicrosoft-365%2Fdownloads%2Fsecurity-compass-decision-worksheet.xlsx&wdOrigin=BROWSELINK)
+
