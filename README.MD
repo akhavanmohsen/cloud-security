@@ -6,6 +6,10 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 ## Learnig content
 
+[Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/adoption/mcra)
+
+[Zero Trust](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview)
+
 
 ## Books
 
@@ -51,6 +55,11 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 ## Best Repo
 
 [AzureHunter](https://github.com/darkquasar/AzureHunter)
+
+[Awesome Azure Learning](https://github.com/ddneves/awesome-azure-learning)
+
+[Azure Tenant Security (AzTS)](https://github.com/azsk/AzTS-docs/tree/main/01-Setup%20and%20getting%20started)
+
 
 ## Blog Posts
 
