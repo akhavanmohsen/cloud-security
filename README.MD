@@ -52,6 +52,13 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 [SC-400 Microsoft Certified: Information Protection and Compliance Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/information-protection-administrator/?practice-assessment-type=certification)
 
+[Certified Azure Red Team Expert (CARTE)](https://www.alteredsecurity.com/azureadvanced)
+
+[Certified Azure Red Team Professional (CARTP)](https://www.alteredsecurity.com/azureadlab)
+
+[Certified Azure Web Application Security Professional (CAWASP)](https://www.alteredsecurity.com/azureappsec)
+
+
 ## Best Repo
 
 [AzureHunter](https://github.com/darkquasar/AzureHunter)
