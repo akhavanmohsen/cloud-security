@@ -81,6 +81,13 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 [Microsoft 365 security recommendations with PowerShell script](https://www.alitajran.com/microsoft-365-security-recommendations/)
 
 
+## Labs
+
+[PWNED LABS](https://pwnedlabs.io)
+
+
+
+
 ## YouTube Channels
 
 [Pwned Labs - Azure | Tyler Ramsbey](https://www.youtube.com/playlist?list=PLMoaZm9nyKaMFj2s2kgHE3RzMTomAVReM)
