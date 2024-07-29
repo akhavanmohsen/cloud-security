@@ -67,12 +67,25 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 [Azure Tenant Security (AzTS)](https://github.com/azsk/AzTS-docs/tree/main/01-Setup%20and%20getting%20started)
 
+[Awesome Azure Penetration Testing](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest)
+
+[Azure-Pentest-Toolkit](https://github.com/cr4ck3rj4ck5/Azure-Pentest-Toolkit)
+
+
+
 
 ## Blog Posts
 
 ### Microsoft 365
 
 [Microsoft 365 security recommendations with PowerShell script](https://www.alitajran.com/microsoft-365-security-recommendations/)
+
+
+## YouTube Channels
+
+[Pwned Labs - Azure | Tyler Ramsbey](https://www.youtube.com/playlist?list=PLMoaZm9nyKaMFj2s2kgHE3RzMTomAVReM)
+
+[Azure Cybersecurity | Tyler Ramsbey](https://www.youtube.com/playlist?list=PLMoaZm9nyKaMG35DVS8Ide7hoDb3T_d1l)
 
 
 
