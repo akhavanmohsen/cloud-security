@@ -71,6 +71,10 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 [Azure-Pentest-Toolkit](https://github.com/cr4ck3rj4ck5/Azure-Pentest-Toolkit)
 
+[Azure-Red-Team](https://github.com/rootsecdev/Azure-Red-Team)
+
+[Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts/welcome/)
+
 
 
 
