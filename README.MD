@@ -75,6 +75,15 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 [Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts/welcome/)
 
+[Cloud Container Attack Tool](https://github.com/RhinoSecurityLabs/ccat)
+
+[CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+
+[Leonidas](https://github.com/WithSecureLabs/leonidas)
+
+[TerraGoat - Vulnerable Terraform Infrastructure](https://github.com/bridgecrewio/terragoat)
+
+[Sadcloud](https://github.com/nccgroup/sadcloud?tab=readme-ov-file#sadcloud)
 
 
 
