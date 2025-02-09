@@ -4,11 +4,17 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 
 
-## Learnig content
+## Learning content
 
 [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/adoption/mcra)
 
 [Zero Trust](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview)
+
+[Hands-on blue team training](https://letsdefend.io/)
+
+[Blue Team Training](https://www.securityblue.team/)
+
+
 
 
 ## Books
@@ -58,6 +64,8 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 [Certified Azure Web Application Security Professional (CAWASP)](https://www.alteredsecurity.com/azureappsec)
 
+[Security Analysis Certification - Hackthebox](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst?irclickid=w5PxVVUwPxyKRY21yxy5n0SPUks25-WgE1xsxk0&irgwc=1)
+
 
 ## Best Repo
 
@@ -97,6 +105,8 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 ## Labs
 
 [PWNED LABS](https://pwnedlabs.io)
+
+
 
 
 
