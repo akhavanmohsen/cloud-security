@@ -93,6 +93,30 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 [Sadcloud](https://github.com/nccgroup/sadcloud?tab=readme-ov-file#sadcloud)
 
+[Azure Threat Research Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
+
+[Zotero](https://www.zotero.org/groups/2507373/cloudsecurity/library)
+
+[Cloud Security Zotero Library](https://www.zotero.org/groups/2507373/cloudsecurity/library)
+
+[Cloud Security Wiki](https://www.secwiki.cloud/)
+
+[CloudSecDocs](https://cloudsecdocs.com/)
+
+[Toniblyx’s Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
+
+[A Penetration Tester’s Guide to the Azure Cloud](https://labs.withsecure.com/publications/a-penetration-testers-guide-to-the-azure-cloud)
+
+[IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable)
+
+[CloudFox](https://github.com/BishopFox/cloudfox)
+
+[Prowler ](https://github.com/prowler-cloud/prowler?utm_source=www.cloudsecuritynewsletter.com&utm_medium=newsletter&utm_campaign=2025-guide-to-cloud-pentesting-aws-azure-edition&_bhlid=3643d7ed774e1a3ad881030db88d61bc080cc761)
+
+
+
+
+
 
 
 ## Blog Posts
