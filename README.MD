@@ -117,8 +117,9 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 [Prowler ](https://github.com/prowler-cloud/prowler?utm_source=www.cloudsecuritynewsletter.com&utm_medium=newsletter&utm_campaign=2025-guide-to-cloud-pentesting-aws-azure-edition&_bhlid=3643d7ed774e1a3ad881030db88d61bc080cc761)
 
+[Azure Offensive Security Tools](https://www.azure-sec.com/tools)
 
-
+[Cloud - Azure Pentest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md)
 
 
 
@@ -142,6 +143,8 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 [CloudGoat 2.0](https://github.com/RhinoSecurityLabs/cloudgoat)
 
 [Azure Offensive Security](https://www.azure-sec.com/labs)
+
+[Microsoft Azure Detection Lab](https://medium.com/@chryb3r/microsoft-azure-detection-lab-831fb7dd1941)
 
 
 ## Exam Practice
