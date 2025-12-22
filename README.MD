@@ -14,6 +14,8 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 [Blue Team Training](https://www.securityblue.team/)
 
+[AZURE RED TEAM EXPERT](https://training.hacktricks.xyz/courses/azrte)
+
 
 
 
@@ -65,6 +67,8 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 [Certified Azure Web Application Security Professional (CAWASP)](https://www.alteredsecurity.com/azureappsec)
 
 [Security Analysis Certification - Hackthebox](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst?irclickid=w5PxVVUwPxyKRY21yxy5n0SPUks25-WgE1xsxk0&irgwc=1)
+
+[Certified Cloud Pentesting eXpert – Azure](https://pentestingexams.com/product/certified-cloud-pentesting-expert-azure/)
 
 
 ## Best Repo
@@ -125,10 +129,19 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 [Microsoft 365 security recommendations with PowerShell script](https://www.alitajran.com/microsoft-365-security-recommendations/)
 
+[Azure Penetration Testing](https://www.vaadata.com/blog/azure-penetration-testing-objectives-methodology-and-use-cases/)
+
+[Azure Penetration Testing: Methodology and Approach](https://deepstrike.io/blog/azure-penetration-testing-methodology-and-approach)
+
+
 
 ## Labs
 
 [PWNED LABS](https://pwnedlabs.io)
+
+[CloudGoat 2.0](https://github.com/RhinoSecurityLabs/cloudgoat)
+
+[Azure Offensive Security](https://www.azure-sec.com/labs)
 
 
 ## Exam Practice
