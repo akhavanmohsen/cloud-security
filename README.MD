@@ -121,6 +121,9 @@ Hi everyone, I'm **Mohsen**, a security professional with over 10 years of exper
 
 [Cloud - Azure Pentest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md)
 
+[Security lists for SOC/DFIR detections](https://github.com/mthcht/awesome-lists)
+
+[SOC - David Alonso-Security-Repo](https://github.com/mthcht/awesome-lists)
 
 
 
